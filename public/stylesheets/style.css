@@ -1,0 +1,18 @@
+html {
+  text-shadow: 0 2px 0 rgba(0, 0, 0, 0.07);
+}
+
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00b7ff;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 250px 250px 100px;
+  gap: 10px;
+}
